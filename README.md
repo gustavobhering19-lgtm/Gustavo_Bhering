@@ -10,7 +10,6 @@
 
 
 
-
 ### 2. Base em Análise e Business Intelligence (BI)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -26,11 +25,5 @@
 ![Organização](https://img.shields.io/badge/Organização-3F51B5?style=for-the-badge&logo=productivity&logoColor=white)
 
 ## Contatos
-<a href="https://www.linkedin.com/company/dm-hub-digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavobhering07/" height="30" width="40" /></a>
-<a href="mailto:gustavo@email.com" target="_blank">
-<a href="mailto:gustavobhering19@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-mail.svg" 
-       alt="Email" height="30" width="40" />
-</a>
- 
-
+<a href="https://www.linkedin.com/company/dm-hub-digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavobhering07/" height="30" width="40" />
+<a href="mailto:gustavobhering19@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gustavobhering19@gmail.com" height="30" /></a>
