@@ -25,5 +25,11 @@
 ![Organização](https://img.shields.io/badge/Organização-3F51B5?style=for-the-badge&logo=productivity&logoColor=white)
 
 ## Contatos
-<a href="https://www.linkedin.com/company/dm-hub-digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavobhering07/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/gustavobhering07" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="Perfil de Gustavo Bhering no LinkedIn" 
+       height="30" 
+       width="40" 
+       style="vertical-align: middle;" />
+</a>
 <a href="mailto:gustavobhering19@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gustavobhering19@gmail.com" height="30" /></a>
